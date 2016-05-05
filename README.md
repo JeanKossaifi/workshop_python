@@ -13,7 +13,7 @@ This material is strongly inspired from the
 * Gael Varoquaux [@GaelVaroquaux](https://twitter.com/GaelVaroquaux) |
   http://gael-varoquaux.info
 
-* Alexandre Gramfort [@@agramfort](https://twitter.com/agramfort) |
+* Alexandre Gramfort [@agramfort](https://twitter.com/agramfort) |
   https://about.me/agramfort
 
 which was inspired by http://github.com/jakevdp/sklearn_scipy2013
